@@ -1,0 +1,6 @@
+{
+  "name": "Apex Circuit",
+  "description": "High-speed 3D arcade-sim car racing game with custom circuits, drift boost mechanics, AI rivals, and live telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
